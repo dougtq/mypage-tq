@@ -5,6 +5,7 @@
 layout: default
 titulo: 'Bem vindo à DougTQ!'
 descricao: 'Conheça um pouco mais sobre a minha vida e mihas aspirações'
+maquiavel: 'Tornamo-nos odiados tanto fazendo o bem como fazendo o mal.'
 ---
   <div class="landscape text-center">
     <img src="assets/macbook.jpeg" class="img-fluid" alt="Image">
@@ -12,5 +13,5 @@ descricao: 'Conheça um pouco mais sobre a minha vida e mihas aspirações'
   <br>
   <h3 align="center">{{ page.descricao }}</h3>
   <hr>
-
-
+  <br>
+  > {{ page.maquiavel }}
