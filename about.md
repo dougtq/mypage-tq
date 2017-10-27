@@ -15,8 +15,7 @@ permalink: /sobre/
 
  Minhas ferramentas favoritas são:
   - JS
-  - Node.js
-  - Hapi.js
+  - Node.js && Hapi.js
   - Mssql
   - Postgres
   - Python
