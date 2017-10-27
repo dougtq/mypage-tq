@@ -6,9 +6,8 @@ maquiavel: 'Tornamo-nos odiados tanto fazendo o bem como fazendo o mal.'
 ---
   <div class="landscape">
   </div>
-  <br>
-  <div>
-    <h1 class="text-center"> {{ page.titulo }} </h1>
+  <div align="center">
+    <h1> {{ page.titulo }} </h1>
     {{ page.descricao }}
   </div>
   <hr>
