@@ -23,4 +23,4 @@ Spades é uma ideia de uma rede social inspirada em outras redes como Medium e d
 - **[Jwt](https://jwt.io/)**
 
 
-**Autores: @dougtq & @leodionizio**
+**Autores: SpadesTQ - [@dougtq](https://github.com/dougtq) & [@leodionizio](https://github.com/leodionizio)**
