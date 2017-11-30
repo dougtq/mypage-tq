@@ -13,6 +13,8 @@ O Andromeda utiliza-se do Meteor para encapsular as aplicações client e server
 
 ## Ferramentas
 
+<img src="/assets/js.gif" alt="Js" title="JavaScript"/>
+
 * [Meteor](https://www.meteor.com/) - A ferramenta usada
 * [React](https://reactjs.org/) - A biblioteca visual utilizada
 * [Express](http://expressjs.com/) - A ferramenta back-end utilizada
