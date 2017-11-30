@@ -3,12 +3,12 @@ layout: default
 title: Sobre
 permalink: /sobre/
 ---
+<img src="/assets/js.gif" alt="Js" title="JavaScript"/>
+
+<br>
 <div align="center" class="">
   <img class="img-fluid profile" src="/assets/profile.jpg">
 </div>
-<br>
-<img src="/assets/js.gif" alt="Js" title="JavaScript"/>
-
  Apaixonado por música e tecnologia, cursando Análise e Desenvolvimento de Sistemas na Fatec Taquaritinga.
  
  Atualmente trabalho como desenvolvedor BackEnd na [Focus Desenvolvimento de Sistemas](http://focussp.com.br) em suas soluções Web.
