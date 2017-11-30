@@ -5,7 +5,7 @@ permalink: /andromeda-chat/
 ---
 <h1 align="center"> Andromeda Chat </h1>
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/3og0IFrHkIglEOg8Ba" width="500" height="400px" style="position:absolute" frameBorder="0" class="giphy-embed"></iframe></div><p><a href="https://giphy.com/gifs/universe-spiral-galaxy-star-cluster-vortex-konczakowski-3og0IFrHkIglEOg8Ba"></a></p>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/3og0IFrHkIglEOg8Ba" width="100%" height="60%" style="position:absolute" frameBorder="0" class="giphy-embed"></iframe></div><p><a href="https://giphy.com/gifs/universe-spiral-galaxy-star-cluster-vortex-konczakowski-3og0IFrHkIglEOg8Ba"></a></p>
 
 **Um chat feito com Meteor.js, React.js, Express.js and Socket.io**
 
