@@ -7,6 +7,7 @@ permalink: /sobre/
 <div align="center">
   <img class="img-fluid profile" src="/assets/profile.jpg">
 </div>
+<br />
 
  Apaixonado por música e tecnologia, cursei Análise e Desenvolvimento de Sistemas na Fatec Taquaritinga até 2017.
 
