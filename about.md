@@ -9,6 +9,7 @@ permalink: /sobre/
 </div>
 
  Apaixonado por música e tecnologia, cursei Análise e Desenvolvimento de Sistemas na Fatec Taquaritinga até 2017.
+ 
  Atualmente utilizo meu tempo  aprendendo React.js e Python e aumentando meus conhecimentos em Node.js.
 
  Minhas ferramentas favoritas são:
