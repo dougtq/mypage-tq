@@ -10,9 +10,9 @@ Um chat feito com Meteor.js, React.js, Express.js and Socket.io. O Andromeda uti
 
 ## Ferramentas
 
-* [Meteor](https://www.meteor.com/) - A ferramenta usada
-* [React](https://reactjs.org/) - A biblioteca visual utilizada
-* [Express](http://expressjs.com/) - A ferramenta back-end utilizada
-* [Socket.io](https://socket.io/) - A ferramenta de tempo real utilizada
+* **[Meteor](https://www.meteor.com/) - A ferramenta usada**
+* **[React](https://reactjs.org/) - A biblioteca visual utilizada**
+* **[Express](http://expressjs.com/) - A ferramenta back-end utilizada**
+* **[Socket.io](https://socket.io/) - A ferramenta de tempo real utilizada**
 
 **Autor: Douglas Alves - [@dougtq](https://github.com/dougtq)**
