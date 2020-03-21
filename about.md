@@ -6,21 +6,21 @@ permalink: /sobre/
 
  Apaixonado por música e tecnologia, cursei Análise e Desenvolvimento de Sistemas na Fatec Taquaritinga até 2017.
 
- Atualmente utilizo meu tempo aprendendo React.js, Python, GoLang e aumentando meus conhecimentos em Javascript.
+ Atualmente utilizo meu tempo criado solições na **Blu365** como Back-End
 
  Minhas ferramentas favoritas são:
   - Javascript
-  - Typescript
   - Node.js
   - Vue.js
-  - React.js
+  - Typescript
   - Python
-  - Golang
   - TDD/BDD
   - Docker
   - GIT
-  - CI
-  - MongoDB, Mssql, Postgres
+  - CI and CD
+  - Cloudformation
+  - AWS
+  - SQL and NoSql
 
 
 **Maquiavel:**
