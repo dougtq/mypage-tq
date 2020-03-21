@@ -9,7 +9,6 @@ description: Uma CLI para converter BTC para qualquer outra moeda provida.
   <img src="https://i.imgur.com/N8Wyr45.gif" alt="Icon" width="500" height="350">
 </div>
 
-
 {{page.description}}
 
 ### Repositório:

@@ -1,6 +1,6 @@
 ---
 layout: default
-titulo: 'Bem vindo à dougTQ!'
+titulo: 'Bem vindo à DougTQ!'
 descricao: 'Conheça um pouco mais sobre a minha vida e minhas aspirações'
 maquiavel: 'Tornamo-nos odiados tanto fazendo o bem como fazendo o mal.'
 ---
