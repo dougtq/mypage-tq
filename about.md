@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sobre
-permalink: /sobre/
+permalink: /sobre
 ---
 
 <div align="center">
@@ -10,14 +10,15 @@ permalink: /sobre/
 
  Apaixonado por música e tecnologia, cursei Análise e Desenvolvimento de Sistemas na Fatec Taquaritinga até 2017.
 
- Atualmente utilizo meu tempo criado solições na **Blu365** como Back-End
+ Atualmente utilizo meu tempo criado soluções na **Blu365** como Software Engineer
 
  Minhas ferramentas favoritas são:
   - Javascript
   - Node.js
   - Vue.js
   - Typescript
-  - Python
+  - Elixir
+  - Golang
   - TDD/BDD
   - Docker
   - GIT
@@ -25,7 +26,3 @@ permalink: /sobre/
   - Cloudformation
   - AWS
   - SQL and NoSql
-
-
-**Maquiavel:**
-> Há três espécies de cérebros: uns entendem por si próprios; os outros discernem o que os primeiros entendem; e os terceiros não entendem nem por si próprios nem pelos outros; os primeiros são excelentíssimos; os segundos excelentes; e os terceiros totalmente inúteis

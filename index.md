@@ -1,8 +1,8 @@
 ---
 layout: default
-titulo: 'Bem vindo à DougTQ!'
+titulo: 'Bem vindo!'
 descricao: 'Conheça um pouco mais sobre a minha vida e minhas aspirações'
-maquiavel: 'Tornamo-nos odiados tanto fazendo o bem como fazendo o mal.'
+quote: 'Tornamo-nos odiados tanto fazendo o bem como fazendo o mal.'
 ---
   <div class="landscape">
   </div>
@@ -12,5 +12,3 @@ maquiavel: 'Tornamo-nos odiados tanto fazendo o bem como fazendo o mal.'
   </div>
   <hr>
   <br>
-  **Maquiavel:**
-  > {{ page.maquiavel }}

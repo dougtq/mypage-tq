@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Coin-converter
+title: Coin Converter
 permalink: /repos/btc
 description: Uma CLI para converter BTC para qualquer outra moeda provida.
 ---
@@ -12,7 +12,7 @@ description: Uma CLI para converter BTC para qualquer outra moeda provida.
 {{page.description}}
 
 ### Repositório:
-- **[Coin-converter](https://github.com/Area-16/coin-converter)**
+- **[Coin-converter](https://github.com/dougtq/coin-converter)**
 
 ### Ferramentas utilizadas no projeto:
 - **[Commander](https://github.com/tj/commander.js/)**
@@ -21,4 +21,4 @@ description: Uma CLI para converter BTC para qualquer outra moeda provida.
 - **[Request](https://github.com/request/request)**
 
 
-**Autores: Douglas - [@dougtq](https://github.com/dougtq)**
+**Autores: Douglas E. Alves - [@dougtq](https://github.com/dougtq)**
