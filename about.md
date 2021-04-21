@@ -5,7 +5,7 @@ permalink: /sobre
 ---
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/26656464?s=200&u=4e0dd596856245f9d06413698dbdbdc12a8be8e1" alt="Icon" width="200" height="200">
+  <img src="https://avatars.githubusercontent.com/u/26656464?s=200&u=4e0dd596856245f9d06413698dbdbdc12a8be8e1" alt="Me" width="500" height="550">
 </div>
 
  Apaixonado por música e tecnologia, cursei Análise e Desenvolvimento de Sistemas na Fatec Taquaritinga até 2017.
