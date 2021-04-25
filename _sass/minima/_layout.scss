@@ -55,14 +55,14 @@
     top: 9px;
     right: $spacing-unit / 2;
     background-color: $background-color;
-    border: 1px solid $grey-color-light;
+    //border: 1px solid $grey-color-light;
     border-radius: 5px;
     text-align: right;
 
     label[for="nav-trigger"] {
       display: block;
       float: right;
-      width: 36px;
+      width: 26px;
       height: 36px;
       z-index: 2;
       cursor: pointer;
@@ -110,15 +110,16 @@
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid $grey-color-light;
-  padding: $spacing-unit 0;
-  bottom:0;
+  border-top: 1px ridge $grey-color-light;
+  padding: $bottom-spacing-unit 0;
+  bottom: 0;
   width: 100%;
+  max-height: $spacing-unit * 1.865 !important;
 }
 
 .footer-heading {
   @include relative-font-size(1.125);
-  margin-bottom: $spacing-unit / 2;
+  //margin-bottom: $spacing-unit / 2;
 }
 
 .contact-list,
@@ -182,7 +183,10 @@
  * Page content
  */
 .page-content {
-  padding: $spacing-unit 0;
+  padding-top: 45px;
+  padding-bottom: 90px;
+  min-height: 80%;
+  max-height: 95%;
 }
 
 .page-heading {
@@ -257,10 +261,10 @@
 
 .fa {
   padding: 20px;
-text-align: center;
+  text-align: center;
   margin: 5px 2px;
-  font-size: 30px;
-  width: 50px;
+  font-size: 20px;
+  width: 40px;
 }
 .fa-github {
   background: #E6E6ED;
